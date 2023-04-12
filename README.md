@@ -23,3 +23,11 @@ User can do Customization according to the needs like i have used conventional b
 
 Also The Url is taking input from user and if you want to modify you can just remove url variable and give the respective website link in data.
 
+
+<h1>Screenshot</h1>
+
+<p>QR redirecting to youtube
+
+<img src="custom.png"/>
+ 
+

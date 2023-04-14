@@ -7,9 +7,11 @@ A Quick Response code is a two-dimensional pictographic code used for its fast r
 
 <h2>Installation</h2>
 
-pip3 install qrcode for macos users
+**pip3 install qrcode for macos users**
 
-pip install qrcode for others
+**pip install qrcode for Windows**
+
+
 
 <h2>Overview:</h2>
 
@@ -26,8 +28,17 @@ Also The Url is taking input from user and if you want to modify you can just re
 
 <h1>Screenshot</h1>
 
-<p>QR redirecting to youtube
+<h3>QR redirecting to youtube.</h3>
+ 
 
-<img src="custom.png"/>
+
+    
+ <img src="custom.png"/>
+ 
+ 
+ <h3> QR redirecting to my Github account.Here instead of conventional format i used Red and white format,We can customize accordingly.</h3>
+  
+  
+  ![custom3](https://user-images.githubusercontent.com/95540416/232119982-4b706924-fabd-4f74-9152-7b7e35ab83a8.png)
  
 
